@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "my-app simple app for node.js practises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliya27/my-app.git"
+  },
+  "author": "eliyagervas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliya27/my-app/issues"
+  },
+  "homepage": "https://github.com/eliya27/my-app#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jade": "^1.11.0",
+    "pug": "^3.0.2"
+  }
+}
